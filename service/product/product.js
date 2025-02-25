@@ -13,9 +13,6 @@ const fetchAllProducts = async (params) => {
 }
 
 
-const fetchProductById = async (productID) => {
-
-}
 
 
 module.exports = { createProduct, fetchAllProducts }
